@@ -12,3 +12,15 @@ git clone git@github.com:ISS-GT/Prefix2Org.git
 cd Prefix2Org/data
 git lfs pull
 ```
+
+## Loading the dataset in Python
+To load the dataset in Python, you can use the following code snippet:
+
+```python
+import pandas as pd
+
+# Load the dataset
+data = pd.read_parquet("data/prefix2org_2025-04-01.parquet")
+
+# Display the first few rows
+print(data.head())
