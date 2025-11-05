@@ -35,6 +35,9 @@ pip install pyradix
 pip install pytricia
 ```
 
+## Creating the Dataset
+To create the dataset from scratch, please refer to the source code in [Prefix2Org-Code](https://github.com/ISS-GT/Prefix2Org-Code).
+
 ## Citation
 If you use this dataset in your research, please cite the dataset:
 ```bibtex
