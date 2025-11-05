@@ -60,7 +60,7 @@ If you use this dataset in your research, please cite the dataset:
 
 If you use find the framework present in the paper useful, please cite the paper:
 ```bibtex
-@inproceedings{10.1145/3730567.3732927,
+@inproceedings{10.1145/3730567.3764485,
     author = {Gouda, Deepak and Dainotti, Alberto and Testart, Cecilia},
     title = {Prefix2Org : Mapping BGP Prefixes to Organizations},
     year = {2025},
