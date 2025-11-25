@@ -1,5 +1,5 @@
 # Prefix2Org
-This repository contains the dataset for the paper "Prefix2Org: Mapping Internet Prefixes to Organizations" by Gouda et al., published in ACM Internet Measurement Conference (IMC) 2025. The dataset provides a mapping of BGP routed prefixes to their corresponding organizations, denoted as `Direct Owner` and `Delegated Customers`. For more details, refer to the [paper](https://deepakgouda.github.io/assets/pdf/IMC-2025-Prefix2Org.pdf).
+This repository contains the dataset for the paper "Prefix2Org: Mapping Internet Prefixes to Organizations" by Deepak Gouda, Alberto Dainotti and Cecilia Testart, published in ACM Internet Measurement Conference (IMC) 2025. The dataset provides a mapping of BGP routed prefixes to their corresponding organizations, denoted as `Direct Owner` and `Delegated Customers`. For more details, refer to the [paper](https://deepakgouda.github.io/assets/pdf/IMC-2025-Prefix2Org.pdf).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17237945.svg)](https://doi.org/10.5281/zenodo.17237945)
 
